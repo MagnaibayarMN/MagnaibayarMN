@@ -4,23 +4,11 @@ I'm a software engineer who has spent about 14 years on the quiet backend parts 
 
 These days I'm studying cybersecurity and slowly building a small product of my own.
 
-<hr/>
-
-<div style="display: flex; gap: 20px;">
-  <div style="flex: 0 0 20%;">
+  <div>
 <a href="https://www.credly.com/badges/643ce4cf-9c64-4285-82db-60e7e4525511/public_url" target="_blank">
-    <img src="src/ckad-certified-kubernetes-application-developer.png" width="120" alt="CKAD Badge">
+    <img src="src/ckad-certified-kubernetes-application-developer.png" width="60" alt="CKAD Badge">
   </a>
   </div>
-  <div style="flex: 1;">
-
-  #### Certified Kubernetes Application Developer (CKAD)
-  - **Issuer:** Cloud Native Computing Foundation & The Linux Foundation
-  - **Credential URL:** [Verify on Credly](https://www.credly.com/badges/643ce4cf-9c64-4285-82db-60e7e4525511/public_url)
-
-  </div>
-</div>
-
 <hr/>
 
 ### 🧪 Edge Cases vs. Real World
