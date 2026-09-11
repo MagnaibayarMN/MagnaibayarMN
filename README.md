@@ -1,6 +1,6 @@
 # Magnaibayar Ganzorig
 
-I'm a software engineer who has spent about 14 years on the quiet backend parts of financial software — a stock exchange, a credit bureau, insurance systems — mostly in Java, Go, TypeScript, PHP and PostgreSQL.
+I'm a software engineer who has spent 10+ years on the quiet backend parts of financial software — a stock exchange, a credit bureau, insurance systems — mostly in Java, Go, TypeScript, PHP and PostgreSQL.
 
 These days I'm studying cybersecurity and slowly building a small product of my own.
 
